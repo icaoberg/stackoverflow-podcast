@@ -1,6 +1,6 @@
 # StackOverflow Podcast
 
-![StackOverflow Podcast](images/logo.jpg)
+![StackOverflow Podcast](images/logo.png)
 
 ## About
 
